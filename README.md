@@ -205,7 +205,7 @@ http://127.0.0.1:8000
 ```
 > bisa langsung klik saat menjalankan perinta php artisan serve
 
-**Aplikasi KOFFUEL Nexus berhasil dijalankan!**
+**WEB KOFFUEL Nexus berhasil dijalankan!**
 
 ---
 
